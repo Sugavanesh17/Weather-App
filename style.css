@@ -137,3 +137,13 @@ input::placeholder {
         grid-template-columns: none;
     }
 }
+.weather__alert {
+    display: flex;
+    align-items: center;
+    background: #1e1e1e; /* Same background as other cards */
+    color: #fff; /* White text color */
+    padding: 1rem;
+    border-radius: 10px;
+    margin-top: 1rem; /* Space between alerts */
+    font-size: 14px; /* Same font size as other text */
+}
