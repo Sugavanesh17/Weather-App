@@ -17,5 +17,10 @@ A simple Weather App built using **HTML, CSS, and JavaScript** that fetches real
 
 1. **Clone the repository**  
    ```bash
-   git clone <your-repo-link>
-   cd <project-directory>
+   git clone https://github.com/Sugavanesh17/Weather-App.git
+
+
+2. **Get your OpenWeatherMap API Key
+   - Visit OpenWeatherMap and sign up or log in.
+   - Generate your API Key from the API section.
+   - Open the script.js file and replace the placeholder <YOUR_API_KEY> with your key:
