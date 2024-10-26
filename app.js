@@ -89,7 +89,7 @@ function checkAlertConditions(currentWeather) {
 }
 
 function getWeather() {
-    const API_KEY = '0495e5ecf0ce24c7d668bcd4a3cf87a5';
+    const API_KEY = <YOUR_API_KEY>;
     fetch(`https://api.openweathermap.org/data/2.5/weather?q=${currCity}&appid=${API_KEY}&units=${units}`)
         .then(res => res.json())
         .then(data => {
