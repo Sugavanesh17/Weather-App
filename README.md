@@ -27,7 +27,7 @@ A simple Weather App built using **HTML, CSS, and JavaScript** that fetches real
   ```bash
    const API_KEY=<YOUR_API_KEY>
 
-   Folder Structure
+**Folder Structure**
 ```bash
 /weather-app
 │
