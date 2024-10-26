@@ -34,3 +34,6 @@ A simple Weather App built using **HTML, CSS, and JavaScript** that fetches real
 ├── index.html       # Main HTML file
 ├── styles.css       # CSS file for styling
 └── script.js        # JavaScript file for API handling
+
+# License
+
