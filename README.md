@@ -21,8 +21,8 @@ A simple Weather App built using **HTML, CSS, and JavaScript** that fetches real
 
 
 2. **Get your OpenWeatherMap API Key**
-   - Visit OpenWeatherMap and sign up or log in.
-   - Generate your API Key from the API section.
-   - Open the script.js file and replace the placeholder <YOUR_API_KEY> with your key:
-     ```javascript
-     const apiKey = '<YOUR_API_KEY>';
+- Visit OpenWeatherMap and sign up or log in.
+- Generate your API Key from the API section.
+- Open the script.js file and replace the placeholder <YOUR_API_KEY> with your key:
+  ```bash
+   const API_KEY=<YOUR_API_KEY>
