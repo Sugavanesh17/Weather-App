@@ -26,16 +26,7 @@ A simple Weather App built using **HTML, CSS, and JavaScript** that fetches real
 - Open the script.js file and replace the placeholder <YOUR_API_KEY> with your key:
   ```bash
    const API_KEY=<YOUR_API_KEY>
-```bash
-      /weather-app
-      │
-      ├── index.html        Main HTML file
-      ├── styles.css        CSS file for styling
-      └── script.js         JavaScript file for API handling ```
-
 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-**Folder Structure**
-
